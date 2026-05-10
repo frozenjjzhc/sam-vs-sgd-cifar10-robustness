@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook comparing the robustness of Sharpnes
 
 ## Files
 
-- `SAM_vs_SGD_CIFAR10_Robustness.ipynb`: main experiment notebook
+- `SAM_vs_SGD_CIFAR10_Robustness_v2.ipynb`: experiment notebook
 
 ## Notes
 
